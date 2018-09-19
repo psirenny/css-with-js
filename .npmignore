@@ -1,0 +1,17 @@
+*.log
+.babelrc
+.circleci
+.commitlintrc.json
+.eslintignore
+.eslintrc
+.flowconfig
+.gitignore
+.huskyrc
+.nyc_output
+.nycrc
+.remarkignore
+.remarkrc
+ava.config.js
+coverage
+rollup.config.js
+test

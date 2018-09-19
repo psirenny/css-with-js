@@ -1,0 +1,7 @@
+{
+  "branches": 100,
+  "exclude": ["ava.config.js", "test"],
+  "functions": 100,
+  "lines": 100,
+  "statements": 100
+}
