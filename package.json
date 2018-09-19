@@ -1,6 +1,6 @@
 {
   "name": "css-with-js",
-  "description": "CircleCI local command line tool distributed as a node module",
+  "description": "Code to help write CSS in JS",
   "version": "1.0.0",
   "author": "Dennis Torres <djtorres0@gmail.com>",
   "bugs": {
