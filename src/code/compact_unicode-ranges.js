@@ -1,8 +1,9 @@
 // @flow
 
+import type { Charset } from '../types/flow/Charset';
 import type { UnicodeRange } from '../types/flow/UnicodeRange';
 
-export default (exactRanges: UnicodeRange[], unusedCharset: string[]): UnicodeRange[] => {
+export default (exactRanges: UnicodeRange[], unusedCharset: Charset): UnicodeRange[] => {
   if (exactRanges.length === 0) return exactRanges;
 
   let rangeCurr = exactRanges[0];

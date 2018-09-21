@@ -1,5 +1,6 @@
 // @flow
 
+export type { Charset } from './types/flow/Charset';
 export type { FontFaceRule } from './types/flow/FontFaceRule';
 export type { FontFamily } from './types/flow/FontFamily';
 export type { FontFamilyGeneric } from './types/flow/FontFamilyGeneric';

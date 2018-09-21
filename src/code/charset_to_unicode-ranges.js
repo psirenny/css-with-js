@@ -1,8 +1,9 @@
 // @flow
 
+import type { Charset } from '../types/flow/Charset';
 import type { UnicodeRange } from '../types/flow/UnicodeRange';
 
-export default (charset: string[]): UnicodeRange[] => {
+export default (charset: Charset): UnicodeRange[] => {
   if (charset.length === 0) return [];
 
   let charCodeStart = charset[0].charCodeAt(0);
