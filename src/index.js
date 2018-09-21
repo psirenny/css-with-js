@@ -1,5 +1,13 @@
 // @flow
 
-export { default as charsetToCssUnicodeRange } from './code/charset_to_css-unicode-range';
-export { default as strToCharset } from './code/str_to_charset';
+export type { FontFaceRule } from './types/flow/FontFaceRule';
+export type { FontFamily } from './types/flow/FontFamily';
+export type { FontFamilyGeneric } from './types/flow/FontFamilyGeneric';
 export type { OpenTypeFeature } from './types/flow/OpenTypeFeature';
+export type { Rule } from './types/flow/Rule';
+export type { Src } from './types/flow/Src';
+export type { UnicodeRange } from './types/flow/UnicodeRange';
+export { default as charsetToUnicodeRanges } from './code/charset_to_unicode-ranges';
+export { default as compactUnicodeRanges } from './code/compact_unicode-ranges';
+export { default as strToCharset } from './code/str_to_charset';
+export { default as unicodeRangesToCssStr } from './code/unicode-ranges_to_css-str';

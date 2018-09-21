@@ -122,7 +122,7 @@
     "lint:js": "eslint . --ext .js,.md",
     "lint:md": "remark --frail .",
     "outdated": "ncu --newest",
-    "test": "nyc ava",
+    "test": "nyc ava --verbose",
     "test:cov": "nyc check-coverage",
     "test:cov:report": "nyc report --reporter=html",
     "typecheck": "flow .",
