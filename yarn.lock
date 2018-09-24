@@ -1084,9 +1084,9 @@
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.2.tgz#54c5a964462be3d4d78af631363c18d6fa91ac26"
 
-"@psirenny/babel-preset@1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@psirenny/babel-preset/-/babel-preset-1.2.0.tgz#5ab9fc824fe052541f65484645a5289bd15f7b01"
+"@psirenny/babel-preset@1.3.1":
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/@psirenny/babel-preset/-/babel-preset-1.3.1.tgz#7c0bd614053384b07d44dae60a43952d95dbaeed"
 
 "@psirenny/dictionary@1.2.0":
   version "1.2.0"
