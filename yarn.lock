@@ -1088,9 +1088,9 @@
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@psirenny/babel-preset/-/babel-preset-1.2.0.tgz#5ab9fc824fe052541f65484645a5289bd15f7b01"
 
-"@psirenny/dictionary@1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@psirenny/dictionary/-/dictionary-1.2.0.tgz#07dd2af8a47c52c75bd41e79b32ba1a5afbe93dc"
+"@psirenny/dictionary@1.3.0":
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/@psirenny/dictionary/-/dictionary-1.3.0.tgz#12923d1a0ec68923bfba9bc9ada55b4cd7944421"
 
 "@psirenny/eslint-config@1.2.0":
   version "1.2.0"
@@ -1100,11 +1100,11 @@
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@psirenny/remark-preset/-/remark-preset-1.2.0.tgz#51da932ace1f5b5d412184a72150250c969c7da0"
 
-"@psirenny/retext-preset@1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@psirenny/retext-preset/-/retext-preset-1.2.0.tgz#f744ce27b6aa180f639c16be60e831187328ba47"
+"@psirenny/retext-preset@1.3.0":
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/@psirenny/retext-preset/-/retext-preset-1.3.0.tgz#6c449950b36257165955f2b4bc41ff4378051dd3"
   dependencies:
-    "@psirenny/dictionary" "1.2.0"
+    "@psirenny/dictionary" "1.3.0"
 
 "@sindresorhus/df@^1.0.1":
   version "1.0.1"
