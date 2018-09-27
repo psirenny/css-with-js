@@ -7,12 +7,12 @@
 .flowconfig
 .gitignore
 .huskyrc
+.npmpackagejsonlintrc.json
 .nyc_output
 .nycrc
 .remarkignore
 .remarkrc
 ava.config.js
 coverage
-npmpackagejsonlint.config.js
 rollup.config.js
 test
