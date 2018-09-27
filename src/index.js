@@ -1,16 +1,31 @@
 // @flow
 
+export type { AtFontFaceDeclarations } from './types/flow/AtFontFaceDeclarations';
 export type { Charset } from './types/flow/Charset';
-export type { FontFaceRule } from './types/flow/FontFaceRule';
 export type { FontFamily } from './types/flow/FontFamily';
 export type { FontFamilyGeneric } from './types/flow/FontFamilyGeneric';
+export type { FontSource } from './types/flow/FontSource';
+export type { FontSourceLocal } from './types/flow/FontSourceLocal';
+export type { FontSourceUrl } from './types/flow/FontSourceUrl';
+export type { FontWeight } from './types/flow/FontWeight';
 export type { OpenTypeFeature } from './types/flow/OpenTypeFeature';
-export type { Rule } from './types/flow/Rule';
+export type { Quote } from './types/flow/Quote';
+export type { RuleDeclarations } from './types/flow/RuleDeclarations';
 export type { Src } from './types/flow/Src';
 export type { UnicodeRange } from './types/flow/UnicodeRange';
 export { default as charsetToUnicodeRanges } from './code/charset_to_unicode-ranges';
 export { default as compactUnicodeRanges } from './code/compact_unicode-ranges';
 export { default as escapeFontFamilyName } from './code/escape_font-family-name';
+export { default as fontWeightBlack } from './code/font-weight_black';
+export { default as fontWeightBold } from './code/font-weight_bold';
+export { default as fontWeightExtraBold } from './code/font-weight_extra-bold';
+export { default as fontWeightExtraLight } from './code/font-weight_extra-light';
+export { default as fontWeightLight } from './code/font-weight_light';
+export { default as fontWeightMedium } from './code/font-weight_medium';
+export { default as fontWeightNormal } from './code/font-weight_normal';
+export { default as fontWeightSemiBold } from './code/font-weight_semi-bold';
+export { default as fontWeightThin } from './code/font-weight_thin';
+export { default as pruneFontStack } from './code/prune_font-stack';
 export { default as reduceFontFamily } from './code/reduce_font-family';
 export { default as strToCharset } from './code/str_to_charset';
 export { default as unicodeRangesToCssStr } from './code/unicode-ranges_to_css-str';
