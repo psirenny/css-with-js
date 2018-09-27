@@ -3,4 +3,4 @@
 [![CircleCI](https://circleci.com/gh/psirenny/css-with-js/tree/master.svg?style=shield)](https://circleci.com/gh/psirenny/css-with-js/tree/master)
 [![Greenkeeper badge](https://badges.greenkeeper.io/psirenny/css-with-js.svg)](https://greenkeeper.io/)
 
-Code to help write `css` in `js`.
+Code to help write `css` with `js`.
