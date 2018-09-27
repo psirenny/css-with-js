@@ -10,5 +10,6 @@ export type { Src } from './types/flow/Src';
 export type { UnicodeRange } from './types/flow/UnicodeRange';
 export { default as charsetToUnicodeRanges } from './code/charset_to_unicode-ranges';
 export { default as compactUnicodeRanges } from './code/compact_unicode-ranges';
+export { default as escapeFontFamilyName } from './code/escape_font-family-name';
 export { default as strToCharset } from './code/str_to_charset';
 export { default as unicodeRangesToCssStr } from './code/unicode-ranges_to_css-str';
