@@ -40,7 +40,7 @@ test('u,u', (t) => {
 
 test('u, u', (t) => {
   const ranges = [{ from: 48, to: 48 }, { from: 50, to: 50 }];
-  const actual = unicodeRangesToCssStr({ space: true })(ranges);
+  const actual = unicodeRangesToCssStr({ compress: true })(ranges);
   const expected = 'u+30, u+32';
   t.deepEqual(actual, expected);
 });

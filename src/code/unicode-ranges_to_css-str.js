@@ -3,12 +3,12 @@
 import type { UnicodeRange } from '../types/flow/UnicodeRange';
 
 type Config = {
-  space?: boolean,
+  compress?: boolean,
   upper?: boolean,
 };
 
 export default (cfg?: ?Config) => {
-  const delim = cfg?.space ? ', ' : ',';
+  const delim = cfg?.compress ? ', ' : ',';
   const u = cfg?.upper ? 'U' : 'u';
 
   const getUnicodeStr = (range: UnicodeRange): string => {
