@@ -108,24 +108,24 @@
   "module": "dist/es/index.js",
   "repository": "github:psirenny/css-with-js",
   "scripts": {
+    "audit": "synp --source-file yarn.lock; npm audit; rm -f package-lock.json",
     "build": "rollup -c rollup.config.js src/index.js",
-    "check": "npm-run-all deps:audit lint test test:cov typecheck",
+    "check": "run-s audit lint test test:cov typecheck",
     "ci:check": "ci:validate ci:run",
     "ci:run": "circleci build --job check",
     "ci:validate": "circleci config validate",
     "clean": "trash **.DS_Store *.log .nyc_output coverage dist node_modules package-lock.json",
-    "deps:audit": "synp --source-file yarn.lock; npm audit; rm -f package-lock.json",
-    "deps:updates:check": "updates -gp",
-    "deps:updates:update": "updates -gpu",
-    "lint": "npm-run-all lint:js lint:md lint:pkg",
+    "lint": "run-s lint:js lint:md lint:pkg",
     "lint:js": "eslint . --ext .js,.md",
     "lint:md": "remark --frail .",
     "lint:pkg": "npmPkgJsonLint ./package.json",
+    "outdated": "updates -gp",
     "release": "standard-version",
     "test": "nyc ava --verbose",
     "test:cov": "nyc check-coverage",
     "test:cov:report": "nyc report --reporter=html",
-    "typecheck": "flow ."
+    "typecheck": "flow .",
+    "update": "updates -gpu"
   },
   "sideEffects": false
 }
