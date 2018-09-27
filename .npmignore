@@ -13,5 +13,6 @@
 .remarkrc
 ava.config.js
 coverage
+npmpackagejsonlint.config.js
 rollup.config.js
 test
