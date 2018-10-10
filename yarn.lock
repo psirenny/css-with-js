@@ -1859,9 +1859,9 @@ ci-parallel-vars@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/ci-parallel-vars/-/ci-parallel-vars-1.0.0.tgz#af97729ed1c7381911ca37bcea263d62638701b3"
 
-circleci-bin@1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/circleci-bin/-/circleci-bin-1.0.3.tgz#dea701ddaecb6cf17c04662ccf3c37bba28772c0"
+circleci-bin@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/circleci-bin/-/circleci-bin-1.1.0.tgz#32a90d094fdceec285de1812fd8a72053110c436"
   dependencies:
     decompress "4.2.0"
     fs-extra "7.0.0"
