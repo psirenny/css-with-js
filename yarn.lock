@@ -1163,7 +1163,7 @@ ajv-keywords@^3.0.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/ajv-keywords/-/ajv-keywords-3.2.0.tgz#e86b819c602cf8821ad637413698f1dec021847a"
 
-ajv@^6.0.1, ajv@^6.5.2, ajv@^6.5.3:
+ajv@^6.0.1, ajv@^6.5.3, ajv@^6.5.4:
   version "6.5.4"
   resolved "https://registry.yarnpkg.com/ajv/-/ajv-6.5.4.tgz#247d5274110db653706b550fcc2b797ca28cfc59"
   dependencies:
@@ -5002,22 +5002,22 @@ npm-package-arg@6.1.0:
     semver "^5.5.0"
     validate-npm-package-name "^3.0.0"
 
-npm-package-json-lint@3.3.1:
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/npm-package-json-lint/-/npm-package-json-lint-3.3.1.tgz#1992115da458e53edc40a1fc2de4a12d6d0865fe"
+npm-package-json-lint@3.4.1:
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/npm-package-json-lint/-/npm-package-json-lint-3.4.1.tgz#7a5cc61d2f35f4811e45bed2536e774f6dbbe4ab"
   dependencies:
-    ajv "^6.5.2"
+    ajv "^6.5.4"
     chalk "^2.4.1"
-    glob "^7.1.2"
+    glob "^7.1.3"
     is-path-inside "^2.0.0"
     is-plain-obj "^1.1.0"
     is-resolvable "^1.1.0"
     log-symbols "^2.2.0"
     meow "^5.0.0"
     plur "^3.0.1"
-    semver "^5.5.0"
+    semver "^5.6.0"
     strip-json-comments "^2.0.1"
-    validator "^10.5.0"
+    validator "^10.8.0"
 
 npm-packlist@^1.1.6:
   version "1.1.11"
@@ -6849,6 +6849,10 @@ semver@5.5.0:
   version "5.5.0"
   resolved "https://registry.yarnpkg.com/semver/-/semver-5.5.0.tgz#dc4bbc7a6ca9d916dee5d43516f0092b58f7b8ab"
 
+semver@^5.6.0:
+  version "5.6.0"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-5.6.0.tgz#7e74256fbaa49c75aa7c7a205cc22799cac80004"
+
 serialize-error@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/serialize-error/-/serialize-error-2.1.0.tgz#50b679d5635cdf84667bdc8e59af4e5b81d5f60a"
@@ -7802,7 +7806,7 @@ validate-npm-package-name@^3.0.0:
   dependencies:
     builtins "^1.0.3"
 
-validator@^10.5.0:
+validator@^10.8.0:
   version "10.8.0"
   resolved "https://registry.yarnpkg.com/validator/-/validator-10.8.0.tgz#8acb15a5c39411cbc8ef2be0c98c2514da4410a7"
 
