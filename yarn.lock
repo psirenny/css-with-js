@@ -1090,9 +1090,9 @@
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/@psirenny/eslint-config/-/eslint-config-1.3.0.tgz#904e02f64d8e02aa42c3c944e9410d1eaa6f6d83"
 
-"@psirenny/npm-package-json-lint-config@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@psirenny/npm-package-json-lint-config/-/npm-package-json-lint-config-1.0.0.tgz#75647a6dea73a8d847f5b710ac54db8f3a9d14d7"
+"@psirenny/npm-package-json-lint-config@1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@psirenny/npm-package-json-lint-config/-/npm-package-json-lint-config-1.2.0.tgz#71e843b50404bf4a80be65643d7e359324279bfe"
 
 "@psirenny/remark-preset@1.3.0":
   version "1.3.0"
