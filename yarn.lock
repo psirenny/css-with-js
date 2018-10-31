@@ -6598,9 +6598,9 @@ retext-english@3.0.0:
     parse-english "^4.0.0"
     unherit "^1.0.4"
 
-retext-equality@3.4.1:
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/retext-equality/-/retext-equality-3.4.1.tgz#af3a5280a5a299f392a9c3410a1ea4786efcf9bc"
+retext-equality@3.5.0:
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/retext-equality/-/retext-equality-3.5.0.tgz#4e50ede472858b47e5b115b35bea6aa70b13100d"
   dependencies:
     lodash.difference "^4.5.0"
     lodash.intersection "^4.4.0"
