@@ -2336,9 +2336,9 @@ currently-unhandled@^0.4.1:
   dependencies:
     array-find-index "^1.0.1"
 
-cuss@^1.3.0:
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/cuss/-/cuss-1.8.0.tgz#04313cad1afa6632d2d2d71e0423456f964ad065"
+cuss@^1.11.0:
+  version "1.11.0"
+  resolved "https://registry.yarnpkg.com/cuss/-/cuss-1.11.0.tgz#44a6ef093cd0adb801264cab3ba268059d87d9bc"
 
 cyclist@~0.2.2:
   version "0.2.2"
@@ -6645,11 +6645,11 @@ retext-passive@1.3.0:
     unist-util-find-before "^2.0.0"
     unist-util-position "^3.0.0"
 
-retext-profanities@4.4.0:
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/retext-profanities/-/retext-profanities-4.4.0.tgz#23cf67573132c02d2ac14101e7b31616505cd4f2"
+retext-profanities@4.5.0:
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/retext-profanities/-/retext-profanities-4.5.0.tgz#bea7126bc1a6f94266e8e4d5cb761a673a7da132"
   dependencies:
-    cuss "^1.3.0"
+    cuss "^1.11.0"
     lodash.difference "^4.5.0"
     lodash.intersection "^4.4.0"
     nlcst-search "^1.0.0"
