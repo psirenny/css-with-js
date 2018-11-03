@@ -6683,9 +6683,9 @@ retext-readability@4.2.0:
     syllable "^3.0.0"
     unist-util-visit "^1.0.0"
 
-retext-redundant-acronyms@1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/retext-redundant-acronyms/-/retext-redundant-acronyms-1.2.1.tgz#b7b313a66969c38540fb7feb9932d420b2838959"
+retext-redundant-acronyms@1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/retext-redundant-acronyms/-/retext-redundant-acronyms-1.2.2.tgz#61eec4d672fd5ce12209aacd1bad4ab8f5b7b37f"
   dependencies:
     match-casing "^1.0.0"
     nlcst-search "^1.0.0"
