@@ -6694,9 +6694,9 @@ retext-redundant-acronyms@1.2.1:
     quotation "^1.0.1"
     unist-util-position "^3.0.0"
 
-retext-repeated-words@1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/retext-repeated-words/-/retext-repeated-words-1.2.1.tgz#b508d8656276838d7cbdaf8831c1edc5a4faef40"
+retext-repeated-words@1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/retext-repeated-words/-/retext-repeated-words-1.2.2.tgz#2f9562f646c7412aad3a39211e678f6466613333"
   dependencies:
     nlcst-to-string "^2.0.0"
     unist-util-is "^2.0.0"
