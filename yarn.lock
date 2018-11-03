@@ -6711,9 +6711,9 @@ retext-sentence-spacing@2.0.1:
     unist-util-is "^2.0.0"
     unist-util-visit "^1.1.0"
 
-retext-simplify@4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/retext-simplify/-/retext-simplify-4.1.1.tgz#00edbbcf03734418dbf3ceaa990863f372a533a7"
+retext-simplify@4.1.2:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/retext-simplify/-/retext-simplify-4.1.2.tgz#4c179475a9585a4ac8c80ceaf702e2a9a59aa34b"
   dependencies:
     lodash.difference "^4.4.0"
     nlcst-search "^1.0.0"
