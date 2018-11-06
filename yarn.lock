@@ -6702,9 +6702,9 @@ retext-repeated-words@1.2.1:
     unist-util-is "^2.0.0"
     unist-util-visit "^1.1.0"
 
-retext-sentence-spacing@2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/retext-sentence-spacing/-/retext-sentence-spacing-2.0.1.tgz#0baff1aacce08a9d38b3328ec0dd23c1150bdf66"
+retext-sentence-spacing@2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/retext-sentence-spacing/-/retext-sentence-spacing-2.0.2.tgz#7e5f4695d87151b109089af3ab3d49e650e908f1"
   dependencies:
     nlcst-to-string "^2.0.0"
     plur "^2.1.2"
