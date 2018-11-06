@@ -6580,9 +6580,9 @@ retext-contractions@2.1.2:
     nlcst-to-string "^2.0.0"
     unist-util-visit "^1.1.0"
 
-retext-diacritics@1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/retext-diacritics/-/retext-diacritics-1.2.1.tgz#3848560f5c2e434486b41fff4368959149b74443"
+retext-diacritics@1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/retext-diacritics/-/retext-diacritics-1.2.2.tgz#a328f6c556e59a9d1ac347fa64387352371a062d"
   dependencies:
     match-casing "^1.0.0"
     nlcst-search "^1.0.0"
