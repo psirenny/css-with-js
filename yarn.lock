@@ -6621,9 +6621,9 @@ retext-indefinite-article@1.1.4:
     unist-util-is "^2.0.0"
     unist-util-visit "^1.1.0"
 
-retext-intensify@3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/retext-intensify/-/retext-intensify-3.0.1.tgz#9b9b9c945fc5af8618594b053649c3f8434d79ba"
+retext-intensify@3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/retext-intensify/-/retext-intensify-3.0.2.tgz#7c8bfe6867bf8007a26f13c7de2978affd3ab9ea"
   dependencies:
     arr-union "^3.0.0"
     array-differ "^1.0.0"
