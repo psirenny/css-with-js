@@ -6611,9 +6611,9 @@ retext-equality@3.4.1:
     quotation "^1.0.1"
     unist-util-visit "^1.0.0"
 
-retext-indefinite-article@1.1.4:
-  version "1.1.4"
-  resolved "https://registry.yarnpkg.com/retext-indefinite-article/-/retext-indefinite-article-1.1.4.tgz#415fc520bcdfd05f8c16a9f566a393a1360376a0"
+retext-indefinite-article@1.1.5:
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/retext-indefinite-article/-/retext-indefinite-article-1.1.5.tgz#3a7850b05440d40aa2b586530c53fcf756136dc6"
   dependencies:
     format "^0.2.2"
     nlcst-to-string "^2.0.0"
