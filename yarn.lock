@@ -5069,12 +5069,11 @@ npmlog@^4.0.2:
     gauge "~2.7.3"
     set-blocking "~2.0.0"
 
-nspell@^1.0.0:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/nspell/-/nspell-1.0.5.tgz#f5ab262506f3bbf4ca51c924736e133a53a1af73"
+nspell@^2.0.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/nspell/-/nspell-2.1.0.tgz#4b60a823ece7a4b3df733356a800964f77e4367a"
   dependencies:
-    is-buffer "^1.1.4"
-    trim "0.0.1"
+    is-buffer "^2.0.0"
 
 null-check@^1.0.0:
   version "1.0.0"
@@ -6722,14 +6721,14 @@ retext-simplify@4.1.1:
     quotation "^1.0.0"
     unist-util-position "^3.0.0"
 
-retext-spell@2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/retext-spell/-/retext-spell-2.3.1.tgz#f52ee13797fc4eb52de1e8b9dc3f6fe85ca97bd7"
+retext-spell@2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/retext-spell/-/retext-spell-2.4.0.tgz#0d72ccd8ebbbd45152bec99668d74bf297c4b282"
   dependencies:
     lodash.includes "^4.2.0"
     nlcst-is-literal "^1.0.0"
     nlcst-to-string "^2.0.0"
-    nspell "^1.0.0"
+    nspell "^2.0.0"
     quotation "^1.1.0"
     unist-util-visit "^1.0.0"
 
