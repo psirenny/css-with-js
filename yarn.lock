@@ -6658,9 +6658,9 @@ retext-profanities@4.4.0:
     pluralize "^7.0.0"
     quotation "^1.0.0"
 
-retext-quotes@2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/retext-quotes/-/retext-quotes-2.0.1.tgz#150f76182b08a8cebd1a0dc61017f925476ff829"
+retext-quotes@2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/retext-quotes/-/retext-quotes-2.0.3.tgz#7b1aa811e9a26cd5830e8495d7ef7aeb7a2a5ed3"
   dependencies:
     nlcst-to-string "^2.0.0"
     unist-util-is "^2.0.0"
