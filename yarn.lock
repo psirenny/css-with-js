@@ -7562,9 +7562,9 @@ unified-message-control@^1.0.0:
     unist-util-visit "^1.0.0"
     vfile-location "^2.0.0"
 
-unified@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/unified/-/unified-7.0.0.tgz#9c8f4fcee78f8e7e895f0e3d6adb53bd015e1a53"
+unified@7.0.2:
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/unified/-/unified-7.0.2.tgz#16aa2748a7c936b80846cc69c580cd5ebd844532"
   dependencies:
     bail "^1.0.0"
     extend "^3.0.0"
