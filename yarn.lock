@@ -6591,9 +6591,9 @@ retext-diacritics@1.2.1:
     quotation "^1.0.1"
     unist-util-position "^3.0.0"
 
-retext-english@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/retext-english/-/retext-english-3.0.0.tgz#c17cb56bd5f1ba3dee3355ddbab79f1c4894a809"
+retext-english@3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/retext-english/-/retext-english-3.0.2.tgz#efc239c445b112d13f3f511b1856abc2b5476cb4"
   dependencies:
     parse-english "^4.0.0"
     unherit "^1.0.4"
