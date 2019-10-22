@@ -52,7 +52,7 @@
     "eslint-plugin-import": "2.14.0",
     "eslint-plugin-jsx-a11y": "6.1.1",
     "eslint-plugin-markdown": "1.0.0-beta.8",
-    "flow-bin": "0.81.0",
+    "flow-bin": "0.110.0",
     "greenkeeper-lockfile": "2.7.1",
     "npm-package-json-lint": "3.3.1",
     "npm-run-all": "4.1.3",
