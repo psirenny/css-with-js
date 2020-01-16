@@ -31,7 +31,7 @@
     "@babel/preset-env": "7.1.0",
     "@babel/preset-flow": "7.0.0",
     "@commitlint/cli": "8.3.5",
-    "@commitlint/config-conventional": "7.1.2",
+    "@commitlint/config-conventional": "8.3.4",
     "@psirenny/babel-preset": "1.3.1",
     "@psirenny/eslint-config": "1.3.0",
     "@psirenny/npm-package-json-lint-config": "1.0.0",
