@@ -41,7 +41,7 @@
     "babel-eslint": "9.0.0-beta.3",
     "babel-plugin-preval": "3.0.1",
     "circleci-bin": "1.0.3",
-    "dictionary-en-us": "2.0.0",
+    "dictionary-en-us": "3.0.0",
     "dir-compare": "1.4.0",
     "eslint": "5.6.0",
     "eslint-config-airbnb-base": "13.1.0",
